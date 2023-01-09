@@ -5,7 +5,9 @@ body {
     background-color: beige;
     text-align: center;
 }
-
+nav {
+    width: 100%;
+}
 h1,
 h2 {
     color: darkred;
@@ -83,4 +85,12 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+#banner {
+    width: 100%;
+    height: auto;
+}
+.service {
+    display: inline-block;
+    text-align: center;
 }
